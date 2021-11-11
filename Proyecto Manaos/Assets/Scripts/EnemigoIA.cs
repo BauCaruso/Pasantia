@@ -47,6 +47,17 @@ public class EnemigoIA : MonoBehaviour
     }
     private void FixedUpdate()
     {
+        if (mov != Vector2.zero)
+        {
+            anim.SetFloat("movX", dir.x);
+            anim.SetFloat("movY", dir.y);
+            anim.SetBool("caminando", true);
+        }
+        else
+        {
+            anim.SetBool("caminando", false);
+        }
+
         if (enRango && !enRangoAtaque)
         {
             MoveCharacter(mov);

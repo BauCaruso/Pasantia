@@ -15,11 +15,11 @@ C:/Users/Marcos/Documents/GitHub/Pasantia/Proyecto Manaos
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59689
+64798
 Successfully changed project path to: C:/Users/Marcos/Documents/GitHub/Pasantia/Proyecto Manaos
 C:/Users/Marcos/Documents/GitHub/Pasantia/Proyecto Manaos
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 179.74 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 265.19 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.14f1 (51d2f824827f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.14f1/Editor/Data/Resources/UnitySubsystems
@@ -35,296 +35,91 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.14f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.14f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56800
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.009954 seconds.
+Registered in 0.008706 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 171.91 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 171.69 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.518 seconds
+- Completed reload, in  4.286 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3518ms)
-		BeginReloadAssembly (113ms)
+	ReloadAssembly (4286ms)
+		BeginReloadAssembly (107ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (799ms)
-			LoadAssemblies (96ms)
+		EndReloadAssembly (783ms)
+			LoadAssemblies (97ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (275ms)
+			SetupTypeCache (287ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (46ms)
-			SetupLoadedEditorAssemblies (371ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (351ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (172ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (146ms)
-				ProcessInitializeOnLoadMethodAttributes (41ms)
+				ProcessInitializeOnLoadAttributes (130ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.016715 seconds.
+Registered in 0.024674 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 152.85 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 137.62 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.970 seconds
+- Completed reload, in  1.772 seconds
 Domain Reload Profiling:
-	ReloadAssembly (4971ms)
-		BeginReloadAssembly (1657ms)
+	ReloadAssembly (1773ms)
+		BeginReloadAssembly (206ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (38ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (32ms)
-		EndReloadAssembly (3151ms)
-			LoadAssemblies (210ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (1461ms)
+			LoadAssemblies (131ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (608ms)
+			SetupTypeCache (461ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (90ms)
-			SetupLoadedEditorAssemblies (2080ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (153ms)
-				BeforeProcessingInitializeOnLoad (1432ms)
-				ProcessInitializeOnLoadAttributes (435ms)
-				ProcessInitializeOnLoadMethodAttributes (21ms)
-				AfterProcessingInitializeOnLoad (31ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.76 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3828 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.0 MB.
-System memory in use after: 142.1 MB.
-
-Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 4273.
-Total: 3.438600 ms (FindLiveObjects: 0.325100 ms CreateObjectMapping: 0.239000 ms MarkObjects: 2.772600 ms  DeleteObjects: 0.100000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/Sprites/Menu/Tiles Menu_Botones_Volver.png
-  artifactKey: Guid(60c37bc7400a3e343b96e5d3eaab254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu/Tiles Menu_Botones_Volver.png using Guid(60c37bc7400a3e343b96e5d3eaab254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2456018d51ac97bba61e9492a66b6bd5') in 0.275583 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000334 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash DER 48x32.png
-  artifactKey: Guid(0096c00f3f4be144681f395b4fca68fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash DER 48x32.png using Guid(0096c00f3f4be144681f395b4fca68fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6babf2da43f2d565029d0362d4ea70a2') in 0.033136 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000161 seconds.
-  path: Assets/Sprites/TileMap/TileMap (Proceso) Paredes Lvl 1.png
-  artifactKey: Guid(cb5575e5a76d94b4290b04bce29a1353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap (Proceso) Paredes Lvl 1.png using Guid(cb5575e5a76d94b4290b04bce29a1353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e90ceed92de504181cd91f0d48b964c') in 0.026684 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000358 seconds.
-  path: Assets/Sprites/Menu/Tiles Menu_Botones .png
-  artifactKey: Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu/Tiles Menu_Botones .png using Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd7dd1919530e6d418fb3ef74f5d569') in 0.032728 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash IZQ 48x32.png
-  artifactKey: Guid(5300bab694c542847badf1d5f4719c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash IZQ 48x32.png using Guid(5300bab694c542847badf1d5f4719c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f38a54524d857d53c72bb3be0346f31c') in 0.025240 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000393 seconds.
-  path: Assets/Sprites/TileMap/TileMap (proceso) Suelos Lvl 1.png
-  artifactKey: Guid(2e548aa1d8278ab48bed7c5d95de0ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap (proceso) Suelos Lvl 1.png using Guid(2e548aa1d8278ab48bed7c5d95de0ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538f97c0a5f1416d649c41ce5bdf7e33') in 0.032563 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash ARRIBA 48x48.png
-  artifactKey: Guid(f431126b4bd38674589c54408090e021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash ARRIBA 48x48.png using Guid(f431126b4bd38674589c54408090e021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e440b8e91bb0719d431443982dd37b0') in 0.028738 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000423 seconds.
-  path: Assets/Sprites/TileMap/TileMap Suelos, Lvl 1, Animaciones.png
-  artifactKey: Guid(d88c019967575c24c97e2c602d0d2b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Suelos, Lvl 1, Animaciones.png using Guid(d88c019967575c24c97e2c602d0d2b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9242678901fa45ed3990e04d0045bb1b') in 0.036311 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Sprites/TileMap/TileMap Paredes, Lvl 1, Animaciones.png
-  artifactKey: Guid(4e2d1105b227ed841857939d001b15f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Paredes, Lvl 1, Animaciones.png using Guid(4e2d1105b227ed841857939d001b15f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a101aef2649721db864009f8de0c40') in 0.019124 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash ABAJO 48x32.png
-  artifactKey: Guid(ca76dec842e3ecb4c9751fa70bdb9769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash ABAJO 48x32.png using Guid(ca76dec842e3ecb4c9751fa70bdb9769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff3ade027606e38e93fc4b0ea8e4a67') in 0.026033 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/Sprites/TileMap/TileMap Ambiente, Lvl 1.png
-  artifactKey: Guid(ad295e20a0c9e9440abcbb90620586f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Ambiente, Lvl 1.png using Guid(ad295e20a0c9e9440abcbb90620586f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '971332ef0c2164184484c1a2b5c7c448') in 0.052651 seconds 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 14.32 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.5 MB.
-System memory in use after: 70.7 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4298.
-Total: 6.481500 ms (FindLiveObjects: 0.329600 ms CreateObjectMapping: 0.320500 ms MarkObjects: 3.559800 ms  DeleteObjects: 2.270100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.016701 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.250 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3251ms)
-		BeginReloadAssembly (1637ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1499ms)
-		EndReloadAssembly (1491ms)
-			LoadAssemblies (153ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (550ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (62ms)
-			SetupLoadedEditorAssemblies (517ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (158ms)
-				ProcessInitializeOnLoadAttributes (310ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (27ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (20ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3829 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 150.7 MB.
-System memory in use after: 150.9 MB.
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4455.
-Total: 3.233500 ms (FindLiveObjects: 0.358500 ms CreateObjectMapping: 0.260300 ms MarkObjects: 2.538500 ms  DeleteObjects: 0.074900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.020030 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.892 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2893ms)
-		BeginReloadAssembly (1349ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (1163ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (55ms)
-		EndReloadAssembly (1424ms)
-			LoadAssemblies (185ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (509ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (63ms)
-			SetupLoadedEditorAssemblies (476ms)
+			RebuildScriptCaches (76ms)
+			SetupLoadedEditorAssemblies (648ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (141ms)
-				ProcessInitializeOnLoadAttributes (290ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (138ms)
+				BeforeProcessingInitializeOnLoad (162ms)
+				ProcessInitializeOnLoadAttributes (297ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (25ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (21ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.84 ms, found 4 plugins.
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3818 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 150.3 MB.
-System memory in use after: 150.5 MB.
+Unloading 3875 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.2 MB.
+System memory in use after: 145.4 MB.
 
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4458.
-Total: 3.979400 ms (FindLiveObjects: 0.380900 ms CreateObjectMapping: 0.460300 ms MarkObjects: 3.057600 ms  DeleteObjects: 0.078500 ms)
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 4321.
+Total: 6.743400 ms (FindLiveObjects: 0.752400 ms CreateObjectMapping: 0.385100 ms MarkObjects: 5.483700 ms  DeleteObjects: 0.119500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -339,721 +134,151 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 135.464803 seconds.
-  path: Assets/Scripts/EnemigoIA.cs
-  artifactKey: Guid(21d472aa75fa5104388df2fdcdfdfecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/EnemigoIA.cs using Guid(21d472aa75fa5104388df2fdcdfdfecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '533bd61f2f8b87229171398327c985c4') in 0.016772 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.017434 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.682 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2682ms)
-		BeginReloadAssembly (169ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (51ms)
-		EndReloadAssembly (2402ms)
-			LoadAssemblies (143ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1513ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (68ms)
-			SetupLoadedEditorAssemblies (486ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (143ms)
-				ProcessInitializeOnLoadAttributes (297ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (26ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (20ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3818 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 150.4 MB.
-System memory in use after: 150.6 MB.
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4461.
-Total: 4.229900 ms (FindLiveObjects: 0.368100 ms CreateObjectMapping: 0.349600 ms MarkObjects: 3.415200 ms  DeleteObjects: 0.095500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.029689 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.685 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3686ms)
-		BeginReloadAssembly (289ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (31ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (75ms)
-		EndReloadAssembly (3173ms)
-			LoadAssemblies (227ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (536ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (74ms)
-			SetupLoadedEditorAssemblies (2194ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (9ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (1798ms)
-				ProcessInitializeOnLoadAttributes (344ms)
-				ProcessInitializeOnLoadMethodAttributes (14ms)
-				AfterProcessingInitializeOnLoad (28ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (23ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.94 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3818 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 150.4 MB.
-System memory in use after: 150.6 MB.
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4464.
-Total: 4.204800 ms (FindLiveObjects: 0.453100 ms CreateObjectMapping: 0.286500 ms MarkObjects: 3.370700 ms  DeleteObjects: 0.092400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.035755 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.95 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.070 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2070ms)
-		BeginReloadAssembly (195ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (59ms)
-		EndReloadAssembly (1737ms)
-			LoadAssemblies (161ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (673ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (76ms)
-			SetupLoadedEditorAssemblies (620ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (154ms)
-				ProcessInitializeOnLoadAttributes (414ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (30ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.25 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3818 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 150.4 MB.
-System memory in use after: 150.6 MB.
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4467.
-Total: 5.969400 ms (FindLiveObjects: 0.352700 ms CreateObjectMapping: 0.267500 ms MarkObjects: 4.841600 ms  DeleteObjects: 0.505900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.070559 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.832 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2832ms)
-		BeginReloadAssembly (211ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (85ms)
-		EndReloadAssembly (2499ms)
-			LoadAssemblies (166ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (544ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (65ms)
-			SetupLoadedEditorAssemblies (1543ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (143ms)
-				ProcessInitializeOnLoadAttributes (1350ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (29ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3818 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 150.4 MB.
-System memory in use after: 150.6 MB.
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4470.
-Total: 3.914100 ms (FindLiveObjects: 0.498900 ms CreateObjectMapping: 0.309400 ms MarkObjects: 2.988500 ms  DeleteObjects: 0.115600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.018928 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.148 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3148ms)
-		BeginReloadAssembly (159ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (44ms)
-		EndReloadAssembly (2870ms)
-			LoadAssemblies (142ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (555ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (120ms)
-			SetupLoadedEditorAssemblies (652ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (174ms)
-				ProcessInitializeOnLoadAttributes (419ms)
-				ProcessInitializeOnLoadMethodAttributes (14ms)
-				AfterProcessingInitializeOnLoad (36ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (23ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.03 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3818 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 150.5 MB.
-System memory in use after: 150.7 MB.
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4473.
-Total: 10.186200 ms (FindLiveObjects: 0.366100 ms CreateObjectMapping: 0.257900 ms MarkObjects: 9.478500 ms  DeleteObjects: 0.081600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  path: Assets/Sprites/TileMap/Suelo 1/Pared
+  artifactKey: Guid(5f962766c99b3644e9b4a01d8d9afa58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Pared using Guid(5f962766c99b3644e9b4a01d8d9afa58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215244afadd19dd6fe8aa87e55b37181') in 0.013376 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1958.989942 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Parada/Tiles Perso_Lisa Parada ARRIBA 48x32.png
-  artifactKey: Guid(e1173e8183175bf408edfe8b68da00b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Parada/Tiles Perso_Lisa Parada ARRIBA 48x32.png using Guid(e1173e8183175bf408edfe8b68da00b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb06efe2a3fc323bf362a4917a4094f8') in 0.114468 seconds 
+  Time since last request: 12.972309 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_0.asset
+  artifactKey: Guid(e1002ba600119434c9a653166b7ba641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_0.asset using Guid(e1002ba600119434c9a653166b7ba641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51489b02451bc391d497f8d9e125f788') in 0.195170 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.836393 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Parada/Tiles Perso_Lisa Parada DER 48x32.png
-  artifactKey: Guid(56f4e457f8761c344bd7f70412216a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Parada/Tiles Perso_Lisa Parada DER 48x32.png using Guid(56f4e457f8761c344bd7f70412216a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66aed62b085246d1faf541b924c62cfe') in 0.038665 seconds 
+  Time since last request: 0.000237 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_5.asset
+  artifactKey: Guid(fe292f2d465d7734ca98d21d2804b133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_5.asset using Guid(fe292f2d465d7734ca98d21d2804b133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6903574daedb2429d8efe84daaf0ef66') in 0.013980 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.438761 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Parada/Tiles Perso_Lisa Parada IZQ 48x32.png
-  artifactKey: Guid(1e7c76d79b226a84aa411e58c0c2e220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Parada/Tiles Perso_Lisa Parada IZQ 48x32.png using Guid(1e7c76d79b226a84aa411e58c0c2e220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d5635d1b2987e15af6b96838602b0a') in 0.038015 seconds 
+  Time since last request: 0.000258 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_4.asset
+  artifactKey: Guid(87dc6e3dda0fa924e9449e5eb1164237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_4.asset using Guid(87dc6e3dda0fa924e9449e5eb1164237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd64f1bc7257a611f1cfc0fecd6228b9e') in 0.015093 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.753461 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando ABAJO 32x32.png
-  artifactKey: Guid(cde1b6ca6f36a144b865abfe747d0aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando ABAJO 32x32.png using Guid(cde1b6ca6f36a144b865abfe747d0aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c43035fcb3a9ef8ea608214639fdf3') in 1.458721 seconds 
+  Time since last request: 0.000134 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_16.asset
+  artifactKey: Guid(5a3c8dda187770b4ca3730955c4aaa1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_16.asset using Guid(5a3c8dda187770b4ca3730955c4aaa1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5174a3a47de748fac1243db79de7b3') in 0.015806 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.843647 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando ARRIBA 48x32.png
-  artifactKey: Guid(c9dddf31d9a597948bb93b3918a6e697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando ARRIBA 48x32.png using Guid(c9dddf31d9a597948bb93b3918a6e697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af17667f568ac40bd2f89256d62bcbd4') in 0.060635 seconds 
+  Time since last request: 0.000269 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_20.asset
+  artifactKey: Guid(7369ebec0f4a2b14bb451a36f0931627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_20.asset using Guid(7369ebec0f4a2b14bb451a36f0931627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea60046795dbe887a0ff6e4a9204bdbe') in 0.016340 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.113509 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando DER 32x32.png
-  artifactKey: Guid(9b4b83deba6fddd4496daac73b2e9478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando DER 32x32.png using Guid(9b4b83deba6fddd4496daac73b2e9478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126575480758e9f2eb40ae202e9e5a8c') in 0.097157 seconds 
+  Time since last request: 0.000939 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_8.asset
+  artifactKey: Guid(610917cd9e1ef8b4d96fce6c66592cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_8.asset using Guid(610917cd9e1ef8b4d96fce6c66592cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514f894c325588547a2565243f610f27') in 0.022792 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.007583 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando IZQ 32x32.png
-  artifactKey: Guid(d4d71b31fdd8e524696cc0fd5eba1088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando IZQ 32x32.png using Guid(d4d71b31fdd8e524696cc0fd5eba1088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995038a2125b4e2f1052ea16482abc59') in 0.085735 seconds 
+  Time since last request: 0.000388 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_9.asset
+  artifactKey: Guid(faeb709f954aee94aac0c1879066f61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_9.asset using Guid(faeb709f954aee94aac0c1879066f61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '003bec5942e7f6d22d8398e1c8c72f6c') in 0.015240 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.370198 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando ABAJO 32x32.png
-  artifactKey: Guid(cde1b6ca6f36a144b865abfe747d0aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Caminando/Tiles Perso_Lisa Caminando ABAJO 32x32.png using Guid(cde1b6ca6f36a144b865abfe747d0aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba65e8944b2360137ed550b500cd5c0f') in 0.072130 seconds 
+  Time since last request: 0.000255 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_19.asset
+  artifactKey: Guid(73f23673444d8394a8b73d7678942e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_19.asset using Guid(73f23673444d8394a8b73d7678942e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9054bd85b5817af6a1a7881567d65c') in 0.016732 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 37.257504 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash
-  artifactKey: Guid(7959f379fe49cdf48945f6ffb55ffb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash using Guid(7959f379fe49cdf48945f6ffb55ffb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '492f952ba04e5290a6314d6427cfdc3d') in 0.057220 seconds 
+  Time since last request: 0.000250 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_17.asset
+  artifactKey: Guid(b38142090ac68594a950e0da030f9ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_17.asset using Guid(b38142090ac68594a950e0da030f9ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f917e9f84632129fe64c499b59d76a') in 0.016618 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.159214 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash DER 48x32.png
-  artifactKey: Guid(0096c00f3f4be144681f395b4fca68fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash DER 48x32.png using Guid(0096c00f3f4be144681f395b4fca68fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7b2b455938bb46a198f8499a705789') in 0.022100 seconds 
+  Time since last request: 0.000242 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_2.asset
+  artifactKey: Guid(1908cc15dd607114290292d57ad3bd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_2.asset using Guid(1908cc15dd607114290292d57ad3bd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a05ce9ac243dbfeac2292a6f1fcfda') in 0.016251 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash IZQ 48x32.png
-  artifactKey: Guid(5300bab694c542847badf1d5f4719c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash IZQ 48x32.png using Guid(5300bab694c542847badf1d5f4719c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5f2935fe6d4e095ef8a787a55c4255') in 0.056847 seconds 
+  Time since last request: 0.000258 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_3.asset
+  artifactKey: Guid(7aa07206a8e892f42bbf4cc1668e89fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_3.asset using Guid(7aa07206a8e892f42bbf4cc1668e89fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fd7dbec010e9fcd013ca5988c7089c') in 0.013971 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash ARRIBA 48x48.png
-  artifactKey: Guid(f431126b4bd38674589c54408090e021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash ARRIBA 48x48.png using Guid(f431126b4bd38674589c54408090e021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61367b64cd7641fc052e15a8e8a593ba') in 0.042935 seconds 
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_7.asset
+  artifactKey: Guid(cbf7b9c91edc23842910bf3f566fc4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_7.asset using Guid(cbf7b9c91edc23842910bf3f566fc4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6392e8ec8665a121f5de3d8e9d0f87') in 0.017606 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000662 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash ABAJO 48x32.png
-  artifactKey: Guid(ca76dec842e3ecb4c9751fa70bdb9769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Dash/Tiles Perso_Lisa Dash ABAJO 48x32.png using Guid(ca76dec842e3ecb4c9751fa70bdb9769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68830483feaf6c1cf875d55cae86ef86') in 0.056254 seconds 
+  Time since last request: 0.000297 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_10.asset
+  artifactKey: Guid(69d7c92ac91a18d43b067ed008bb92ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_10.asset using Guid(69d7c92ac91a18d43b067ed008bb92ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a482ef7192a9487a6d44f6cb2159fbfd') in 0.014594 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.747130 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Ataque/Tiles Perso_Lisa Ataque ABAJO 48x64.png
-  artifactKey: Guid(55df5a114c769f14a80904fda1a0acd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Ataque/Tiles Perso_Lisa Ataque ABAJO 48x64.png using Guid(55df5a114c769f14a80904fda1a0acd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf0aa6ccce85bdbb5134f264542b6b6') in 0.055349 seconds 
+  Time since last request: 0.000306 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_12.asset
+  artifactKey: Guid(be514a9d5ae335f4e9ba7bf7eb410dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_12.asset using Guid(be514a9d5ae335f4e9ba7bf7eb410dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9dcfad3f3d362533a6236e3c4d86111') in 0.016479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_22.asset
+  artifactKey: Guid(4e19fecb8b29c7a4d953e2fcb03e9736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_22.asset using Guid(4e19fecb8b29c7a4d953e2fcb03e9736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f541f5879647adbf3127bf9173917698') in 0.015934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_13.asset
+  artifactKey: Guid(fd96c0c1d24128343a201ca46997ada8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_13.asset using Guid(fd96c0c1d24128343a201ca46997ada8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ca11fde62065b0333fb5b4dda1774e') in 0.017414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_21.asset
+  artifactKey: Guid(1f872075bcff4bb49b3842bdef77b6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_21.asset using Guid(1f872075bcff4bb49b3842bdef77b6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83012fdfdd15b83bc78048737fabdf95') in 0.016753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_1.asset
+  artifactKey: Guid(7ab3c58c906a0754facbcd29aadebcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_1.asset using Guid(7ab3c58c906a0754facbcd29aadebcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2163630fbbf2a81e1d43bd5c76a18a') in 0.015073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_18.asset
+  artifactKey: Guid(87bbc53f1cabdc9488b6154f890eece5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_18.asset using Guid(87bbc53f1cabdc9488b6154f890eece5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70bd036a56eae7e5030fb0c00ee20ad') in 0.022783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_6.asset
+  artifactKey: Guid(668a0de9840276f4da1824bcb3fd03cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_6.asset using Guid(668a0de9840276f4da1824bcb3fd03cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabbd5dca33688d7ac9daa8fc118e6ab') in 0.017912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_14.asset
+  artifactKey: Guid(a40ac9d9370312a4cac07e35ea1953d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_14.asset using Guid(a40ac9d9370312a4cac07e35ea1953d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f357d3cb86a97123344da5f826afc2f') in 0.020912 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000314 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Ataque/Tiles Perso_Lisa Ataque DER 48x64.png
-  artifactKey: Guid(bf72c808b5ed1f04a856cdaeb143c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Ataque/Tiles Perso_Lisa Ataque DER 48x64.png using Guid(bf72c808b5ed1f04a856cdaeb143c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6cc9e70ff9db489ba7719d7925091f6') in 0.099834 seconds 
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_11.asset
+  artifactKey: Guid(f54660940c2b2d547a8f51b2ff54463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_11.asset using Guid(f54660940c2b2d547a8f51b2ff54463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7eca9b40cbd6178a899a127f524ad3b') in 0.029229 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000412 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Ataque/Tiles Perso_Lisa Ataque ARRIBA 48x64.png
-  artifactKey: Guid(3db06b4c47d1ea444b4726c3add6bb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Ataque/Tiles Perso_Lisa Ataque ARRIBA 48x64.png using Guid(3db06b4c47d1ea444b4726c3add6bb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a0372fefbfff7a1ea7463608ac85d7') in 0.085992 seconds 
+  Time since last request: 0.000083 seconds.
+  path: Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_15.asset
+  artifactKey: Guid(e396f031e1283224e9435cebbbdc24a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 1/Suelo/TileMap Suelos Pasto Lvl 1 16x16_15.asset using Guid(e396f031e1283224e9435cebbbdc24a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663e4d901b341d9e01a6be64990ac904') in 0.019208 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/Sprites/Personajes/Lisa/Ataque/Tiles Perso_Lisa Ataque IZQ 48x64.png
-  artifactKey: Guid(4dfc2e38e3780984ea6de454f55af25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Lisa/Ataque/Tiles Perso_Lisa Ataque IZQ 48x64.png using Guid(4dfc2e38e3780984ea6de454f55af25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e38e51eec8413d2022ea908461b5ab') in 0.079500 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 16.932906 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Movimiento/Sprite Enemigo_Moco Movimiento ABAJO 48x48.png
-  artifactKey: Guid(2d55ca5dfaf392847958ecf5960343a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Movimiento/Sprite Enemigo_Moco Movimiento ABAJO 48x48.png using Guid(2d55ca5dfaf392847958ecf5960343a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232d7ca118dbd1ca2df969ec8141f403') in 0.072642 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000440 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Movimiento/Sprite Enemigo_Moco Movimiento IZQ 48x48.png
-  artifactKey: Guid(0ce4c16cfe3572e46b60e82d1a95ab8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Movimiento/Sprite Enemigo_Moco Movimiento IZQ 48x48.png using Guid(0ce4c16cfe3572e46b60e82d1a95ab8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92437e8b39d3c586a52c3eb796c73da') in 0.077341 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000379 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Movimiento/Sprite Enemigo_Moco Movimiento ARRIBA 48x48.png
-  artifactKey: Guid(ac6e8520ed5850b4e915461b7fbf3cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Movimiento/Sprite Enemigo_Moco Movimiento ARRIBA 48x48.png using Guid(ac6e8520ed5850b4e915461b7fbf3cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7011f00ee1287fa2e3757d5929d0ae69') in 0.081279 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Movimiento/Sprite Enemigo_Moco Movimiento DER 48x48.png
-  artifactKey: Guid(8b4c9be057bda0e468e9f20192a9c3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Movimiento/Sprite Enemigo_Moco Movimiento DER 48x48.png using Guid(8b4c9be057bda0e468e9f20192a9c3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149202c9bc7ef9b8fa75555bdc1179a7') in 0.090334 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 23.564478 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque DER 48x48 1.png
-  artifactKey: Guid(6e7bfdcd69637694a83f3ea834e8c2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque DER 48x48 1.png using Guid(6e7bfdcd69637694a83f3ea834e8c2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe2c9ce3854c2b645b771f033561222') in 0.047412 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000400 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque IZQ 48x48 1.png
-  artifactKey: Guid(c5ea79c31e3dab84ca2ca3916ee7a1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque IZQ 48x48 1.png using Guid(c5ea79c31e3dab84ca2ca3916ee7a1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd546f5eb51a5c804ccdd47dcfdac799b') in 0.037047 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 36.902359 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque DER 48x48.png
-  artifactKey: Guid(113cca0c8864eed41ae1510f76107a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque DER 48x48.png using Guid(113cca0c8864eed41ae1510f76107a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3b9f4e7d5a72e3a12b52b9bdf2c27d') in 0.027227 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000351 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque IZQ 48x48 1.png
-  artifactKey: Guid(c5ea79c31e3dab84ca2ca3916ee7a1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque IZQ 48x48 1.png using Guid(c5ea79c31e3dab84ca2ca3916ee7a1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f61f1d3cbafea7ef71ba175d5ea43c') in 0.060782 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.544934 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque DER 48x48.png
-  artifactKey: Guid(113cca0c8864eed41ae1510f76107a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque DER 48x48.png using Guid(113cca0c8864eed41ae1510f76107a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b48c7d094eef52af4852bd4fd841283') in 0.043223 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000344 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque IZQ 48x48 1.png
-  artifactKey: Guid(c5ea79c31e3dab84ca2ca3916ee7a1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Sprite Enemigo_Moco Ataque IZQ 48x48 1.png using Guid(c5ea79c31e3dab84ca2ca3916ee7a1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b5422786ea072969882ed8ce176c06') in 0.043091 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 27.141470 seconds.
-  path: Assets/Sprites/TileMap/TileMap (Proceso) Paredes Lvl 1.png
-  artifactKey: Guid(cb5575e5a76d94b4290b04bce29a1353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap (Proceso) Paredes Lvl 1.png using Guid(cb5575e5a76d94b4290b04bce29a1353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346d193f45a96713af8e641cd4f45624') in 0.024465 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.763246 seconds.
-  path: Assets/Sprites/TileMap/TileMap Suelos, Lvl 1, Animaciones.png
-  artifactKey: Guid(d88c019967575c24c97e2c602d0d2b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Suelos, Lvl 1, Animaciones.png using Guid(d88c019967575c24c97e2c602d0d2b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f343281f0a02cf0dcf0e56b67f0e257e') in 0.105775 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000355 seconds.
-  path: Assets/Sprites/TileMap/TileMap (Proceso) Paredes Lvl 1.png
-  artifactKey: Guid(cb5575e5a76d94b4290b04bce29a1353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap (Proceso) Paredes Lvl 1.png using Guid(cb5575e5a76d94b4290b04bce29a1353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd8d45564f72b03ea99d76b7491190c') in 0.055551 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000394 seconds.
-  path: Assets/Sprites/TileMap/TileMap (proceso) Suelos Lvl 1.png
-  artifactKey: Guid(2e548aa1d8278ab48bed7c5d95de0ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap (proceso) Suelos Lvl 1.png using Guid(2e548aa1d8278ab48bed7c5d95de0ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d52167068b2a2fe0a804ac22efe990e') in 0.039063 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/Sprites/TileMap/TileMap Paredes, Lvl 1, Animaciones.png
-  artifactKey: Guid(4e2d1105b227ed841857939d001b15f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Paredes, Lvl 1, Animaciones.png using Guid(4e2d1105b227ed841857939d001b15f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a714a522c9d3eeb2b078c9943d5a20c4') in 0.047660 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Sprites/TileMap/TileMap Ambiente, Lvl 1.png
-  artifactKey: Guid(ad295e20a0c9e9440abcbb90620586f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Ambiente, Lvl 1.png using Guid(ad295e20a0c9e9440abcbb90620586f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff3191a30b40725fddb0c964d72383c') in 0.048964 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 114.150488 seconds.
-  path: Assets/Sprites/TileMap/TileMap (proceso) Suelos Lvl 1.png
-  artifactKey: Guid(2e548aa1d8278ab48bed7c5d95de0ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap (proceso) Suelos Lvl 1.png using Guid(2e548aa1d8278ab48bed7c5d95de0ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06930d832d770de331f798b66b1c5352') in 0.316598 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 28.177170 seconds.
-  path: Assets/Sprites/TileMap/TileMap (Proceso) Paredes Lvl 1.png
-  artifactKey: Guid(cb5575e5a76d94b4290b04bce29a1353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap (Proceso) Paredes Lvl 1.png using Guid(cb5575e5a76d94b4290b04bce29a1353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9eab60509f779abcc60c21da1970f1') in 0.228450 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 35.472030 seconds.
-  path: Assets/Sprites/TileMap/TileMap Ambiente, Lvl 1.png
-  artifactKey: Guid(ad295e20a0c9e9440abcbb90620586f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Ambiente, Lvl 1.png using Guid(ad295e20a0c9e9440abcbb90620586f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804fcef9383036f4d7f238393437e477') in 0.243985 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.906092 seconds.
-  path: Assets/Sprites/TileMap/TileMap Paredes, Lvl 1, Animaciones.png
-  artifactKey: Guid(4e2d1105b227ed841857939d001b15f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Paredes, Lvl 1, Animaciones.png using Guid(4e2d1105b227ed841857939d001b15f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a755e7b6c3f977de42cac34e955021') in 0.142869 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.517993 seconds.
-  path: Assets/Sprites/TileMap/TileMap Suelos, Lvl 1, Animaciones.png
-  artifactKey: Guid(d88c019967575c24c97e2c602d0d2b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/TileMap/TileMap Suelos, Lvl 1, Animaciones.png using Guid(d88c019967575c24c97e2c602d0d2b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e37e5ffe65c89a2e9d8690c6e02eb3') in 0.350095 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.029210 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.842 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2843ms)
-		BeginReloadAssembly (173ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (49ms)
-		EndReloadAssembly (2539ms)
-			LoadAssemblies (153ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (491ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (64ms)
-			SetupLoadedEditorAssemblies (1618ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (144ms)
-				ProcessInitializeOnLoadAttributes (1425ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (28ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (28ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3835 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 167.2 MB.
-System memory in use after: 167.4 MB.
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 5105.
-Total: 3.446700 ms (FindLiveObjects: 0.378800 ms CreateObjectMapping: 0.221300 ms MarkObjects: 2.739400 ms  DeleteObjects: 0.105900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 442.993402 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fffa268c84671929c23e14b3366a74a') in 0.031833 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.132681 seconds.
-  path: Assets/Scenes/EscenaDePruebas.unity
-  artifactKey: Guid(dd49191cd6c256745aaefdd8c1cb6a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/EscenaDePruebas.unity using Guid(dd49191cd6c256745aaefdd8c1cb6a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df716878467f6b9634bd3ec5227b49c8') in 0.016485 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 30.560021 seconds.
-  path: Assets/Scenes/Menu.unity
-  artifactKey: Guid(41324d0c5feaee543b65afd6f3c0928a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Menu.unity using Guid(41324d0c5feaee543b65afd6f3c0928a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c747dc7587dc1391501ad4a3723506ed') in 0.043161 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.035030 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Marcos\Documents\GitHub\Pasantia\Proyecto Manaos\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.810 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1810ms)
-		BeginReloadAssembly (206ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (20ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (65ms)
-		EndReloadAssembly (1476ms)
-			LoadAssemblies (166ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (545ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (64ms)
-			SetupLoadedEditorAssemblies (509ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (145ms)
-				ProcessInitializeOnLoadAttributes (313ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (29ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (33ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.81 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3865 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 170.2 MB.
-System memory in use after: 169.7 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 5142.
-Total: 3.681000 ms (FindLiveObjects: 0.464800 ms CreateObjectMapping: 0.298800 ms MarkObjects: 2.627400 ms  DeleteObjects: 0.288900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 105.970901 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Ataque/Sprite Enemigo_Moco Ataque DER 48x48.png
-  artifactKey: Guid(d3eb2bdf57e0d0e459e41fd00c6f55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Ataque/Sprite Enemigo_Moco Ataque DER 48x48.png using Guid(d3eb2bdf57e0d0e459e41fd00c6f55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3fba694a73f4c71feebf5830749b9b') in 1.494610 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Ataque/Sprite Enemigo_Moco Ataque IZQ 48x48.png
-  artifactKey: Guid(13f1b378a822b5e4481653c9cc20558f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Personajes/Enemigos/Moco/Ataque/Ataque/Sprite Enemigo_Moco Ataque IZQ 48x48.png using Guid(13f1b378a822b5e4481653c9cc20558f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a239032c274bfdf734f0c289edc234c') in 0.044394 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.814671 seconds.
-  path: Assets/Sprites/Menu
-  artifactKey: Guid(b482438dd04f2c445a56d8660d5e36af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu using Guid(b482438dd04f2c445a56d8660d5e36af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bf50cda5abb0c123770f9c86e096c6') in 0.010669 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.191125 seconds.
-  path: Assets/Sprites/Menu/Tiles Menu_Botones .png
-  artifactKey: Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu/Tiles Menu_Botones .png using Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5d3b398aa9cfd0af82b803d3ccde66') in 0.019085 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.693182 seconds.
-  path: Assets/Sprites/Menu/Tiles Menu_Botones .png
-  artifactKey: Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu/Tiles Menu_Botones .png using Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0b28d6230a0fb0cca9439a123e5e3c') in 0.038914 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.396779 seconds.
-  path: Assets/Sprites/Menu/Tiles Menu_Botones .png
-  artifactKey: Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu/Tiles Menu_Botones .png using Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2123c7c0e8a00e6b8fafdc06423c63') in 1.385012 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 76.374771 seconds.
-  path: Assets/Sprites/Menu/Tiles Menu_Botones .png
-  artifactKey: Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu/Tiles Menu_Botones .png using Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f50e65b19ae0ebebccf766ddf5031b') in 0.054394 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 227.932806 seconds.
-  path: Assets/Sprites/Menu/Tiles Menu_Botones .png
-  artifactKey: Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu/Tiles Menu_Botones .png using Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7e80c18c0956d30d1861b8f10a76c3') in 0.041174 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 33.823556 seconds.
-  path: Assets/Sprites/Menu/Tiles Menu_Botones .png
-  artifactKey: Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu/Tiles Menu_Botones .png using Guid(90802869b25661d4b8fe82a88a91f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '649a0512568d2803a433da0e5fdda17e') in 0.038060 seconds 
+  Time since last request: 43.809658 seconds.
+  path: Assets/Sprites/TileMap/Suelo 2
+  artifactKey: Guid(26f98ce421226d6499ccfb094f68e7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TileMap/Suelo 2 using Guid(26f98ce421226d6499ccfb094f68e7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0128abca96b462a1599f4d75e218a49') in 0.007650 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
