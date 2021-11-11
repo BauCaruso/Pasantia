@@ -359,7 +359,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.2260128, y: 1}
+    m_SensorSize: {x: 2.5714285, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -376,7 +376,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519275084}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 2.1, y: 0.42, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1628516707}
@@ -432,18 +432,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.33733642, y: 0.01983291}
+  m_Offset: {x: -0.4346462, y: -0.0006533265}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1.875}
+    oldSize: {x: 1.9375, y: 1.9375}
     newSize: {x: 0.8828125, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.0102715, y: 1.9146658}
+  m_Size: {x: 1.0819734, y: 1.9556383}
   m_EdgeRadius: 0
 --- !u!50 &540066710
 Rigidbody2D:
@@ -507,7 +507,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1222066121546015805, guid: 60b6010a4a4f9524993524b18ab5e482, type: 3}
+  m_Sprite: {fileID: -2513806743864536536, guid: cde1b6ca6f36a144b865abfe747d0aa3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -526,7 +526,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 540066707}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 2.1, y: 0.42, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7618416}
@@ -630,7 +630,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 885060693}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 2.1, y: 0.42, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -989,7 +989,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!95 &1823203176
 Animator:
   serializedVersion: 3
@@ -1047,13 +1047,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21d472aa75fa5104388df2fdcdfdfecb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
-  checkRadio: 0
-  attackRadio: 0
+  speed: 1
+  checkRadio: 5
+  attackRadio: 2
   shouldRotate: 1
   Player:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   dir: {x: 0, y: 0, z: 0}
 --- !u!1 &1875113096
 GameObject:
