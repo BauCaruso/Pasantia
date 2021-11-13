@@ -35,16 +35,20 @@ public class PlayerMov : MonoBehaviour
         AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
         bool atacando = stateInfo.IsName("jugador-atacando");
 
-        if(Input.GetMouseButtonDown(0) && !atacando) 
+        if(Input.GetMouseButtonDown(0) && !atacando) //si el se clickea y no esta atacando se ejecuta la animacion atacando
         {
             anim.SetTrigger("atacando");
             
         }
-        if (atacando)
+        if (atacando) //esto es para que el collider de ataque aparezca solo a mitad de la animacion y despues se desactive
         {
             float playbackTime = stateInfo.normalizedTime;
             if (playbackTime > 0.33 && playbackTime < 0.66) attackCollider.enabled = true;
             else attackCollider.enabled = false;
+
+        }
+        if()
+        {
 
         }
 
@@ -76,7 +80,7 @@ public class PlayerMov : MonoBehaviour
         }
     }
     void MovInput()
-    {
+    {   // basicamente el movimiento
         float x = Input.GetAxisRaw("Horizontal");
         float y = Input.GetAxisRaw("Vertical");
         movimiento = new Vector3(x, y).normalized;
