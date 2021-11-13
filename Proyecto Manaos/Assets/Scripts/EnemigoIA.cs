@@ -44,6 +44,8 @@ public class EnemigoIA : MonoBehaviour
             anim.SetFloat("x", dir.x);
             anim.SetFloat("y", dir.y);
         }
+        else
+            return;
     }
     private void FixedUpdate()
     { //comprueba si el movimiento no es 0 y pone la animacion correspondiente a la direccion
