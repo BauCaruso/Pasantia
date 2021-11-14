@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas paredes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1696514440496107819, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 8767791996357937458, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 903797863660690881, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -7890981583298838841, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 4037539614060855922, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 6197897463909676770, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -7050335270513891850, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -8561645558551171212, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -8962812019422825828, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -5728869480805608647, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 9027856857308732767, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 1598038048062307548, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 6242386202934351210, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 8078746276760270532, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -1760088766603276680, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -4694877262858477161, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 5395962779149854487, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -6716197955869884045, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -5914244814146328866, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -8224965516050513859, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 6498396498478590958, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -5201115603086555858, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -1539305259378224617, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -2431345640194694834, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 5348130104448414736, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 5287739323197441594, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 4588112935624202475, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 452628014112271373, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 9099171183804807055, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -710604201496101351, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 4155011964328967583, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 2410146712772085415, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -1924119446504847406, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 3687055599167140912, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 2377759073468493686, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -3666949247449957046, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 904862198513954602, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 2164934079175472866, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -1479607008273615239, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -8184737317626977535, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 5102875814948460470, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 4182007037638184672, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 3135285177407868608, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -1174441215880103291, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 4877192031360079031, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 6345633097297023635, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 1398409867081025765, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 8683259009625041295, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -5767025285752705827, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -989108201241617973, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -5931929412903616228, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 6420330705203956020, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 5127432795997800085, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: 5840762626713363419, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  - {fileID: -6637711531788666424, guid: 875da23556b104241a1ba77652c9482d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TileMap Paredes Lvl2, 16x16 1_18
+  - TileMap Paredes Lvl2, 16x16 1_9
+  - TileMap Paredes Lvl2, 16x16 1_19
+  - TileMap Paredes Lvl2, 16x16 1_8
+  - TileMap Paredes Lvl2, 16x16 1_16
+  - TileMap Paredes Lvl2, 16x16 1_17
+  - TileMap Paredes Lvl2, 16x16 1_14
+  - TileMap Paredes Lvl2, 16x16 1_15
+  - TileMap Paredes Lvl2, 16x16 1_12
+  - TileMap Paredes Lvl2, 16x16 1_3
+  - TileMap Paredes Lvl2, 16x16 1_13
+  - TileMap Paredes Lvl2, 16x16 1_2
+  - TileMap Paredes Lvl2, 16x16 1_10
+  - TileMap Paredes Lvl2, 16x16 1_1
+  - TileMap Paredes Lvl2, 16x16 1_11
+  - TileMap Paredes Lvl2, 16x16 1_0
+  - TileMap Paredes Lvl2, 16x16 1_7
+  - TileMap Paredes Lvl2, 16x16 1_6
+  - TileMap Paredes Lvl2, 16x16 1_5
+  - TileMap Paredes Lvl2, 16x16 1_4
+  - TileMap Paredes Lvl2, 16x16 1_38
+  - TileMap Paredes Lvl2, 16x16 1_39
+  - TileMap Paredes Lvl2, 16x16 1_29
+  - TileMap Paredes Lvl2, 16x16 1_28
+  - TileMap Paredes Lvl2, 16x16 1_30
+  - TileMap Paredes Lvl2, 16x16 1_31
+  - TileMap Paredes Lvl2, 16x16 1_49
+  - TileMap Paredes Lvl2, 16x16 1_32
+  - TileMap Paredes Lvl2, 16x16 1_52
+  - TileMap Paredes Lvl2, 16x16 1_48
+  - TileMap Paredes Lvl2, 16x16 1_33
+  - TileMap Paredes Lvl2, 16x16 1_23
+  - TileMap Paredes Lvl2, 16x16 1_53
+  - TileMap Paredes Lvl2, 16x16 1_34
+  - TileMap Paredes Lvl2, 16x16 1_22
+  - TileMap Paredes Lvl2, 16x16 1_50
+  - TileMap Paredes Lvl2, 16x16 1_35
+  - TileMap Paredes Lvl2, 16x16 1_21
+  - TileMap Paredes Lvl2, 16x16 1_51
+  - TileMap Paredes Lvl2, 16x16 1_45
+  - TileMap Paredes Lvl2, 16x16 1_36
+  - TileMap Paredes Lvl2, 16x16 1_20
+  - TileMap Paredes Lvl2, 16x16 1_44
+  - TileMap Paredes Lvl2, 16x16 1_37
+  - TileMap Paredes Lvl2, 16x16 1_27
+  - TileMap Paredes Lvl2, 16x16 1_47
+  - TileMap Paredes Lvl2, 16x16 1_26
+  - TileMap Paredes Lvl2, 16x16 1_54
+  - TileMap Paredes Lvl2, 16x16 1_46
+  - TileMap Paredes Lvl2, 16x16 1_25
+  - TileMap Paredes Lvl2, 16x16 1_41
+  - TileMap Paredes Lvl2, 16x16 1_24
+  - TileMap Paredes Lvl2, 16x16 1_40
+  - TileMap Paredes Lvl2, 16x16 1_43
+  - TileMap Paredes Lvl2, 16x16 1_42
+  m_RenderDataMap: {}
+  m_Tag: Atlas paredes
+  m_IsVariant: 0

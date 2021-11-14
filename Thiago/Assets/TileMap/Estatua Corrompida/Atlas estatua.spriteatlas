@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas estatua
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+    - {fileID: 2800000, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 4499511040654382348, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: -6460785391330737858, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: 1698697918775799561, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: -7313758548912346370, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: -1383518855967492973, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: -5870425441813994730, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: 7546811273939138497, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: -5821263643006883986, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: -3230587434101333437, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: -9114666846064617196, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: 5370902802894056455, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: 8421425600032440442, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: -6206534497017792713, guid: 682a1904bfc84f5499383646ddc34345, type: 3}
+  - {fileID: 6455337323452847076, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -5080736952322013415, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 7840312487826304058, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 3758384639159581971, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -8337812905776898966, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 781849216779674303, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -3236463891242791565, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 259064700740879703, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 6894409251529663868, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -8757038841396356029, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 1172274164019188185, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 2317951876219564327, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -7474446407855381852, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -5392011112715376495, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -2702958229977968427, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -2225541511967424541, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 5791594724025124081, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 1398470541855732384, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 6602186880199783380, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 7224340575091526488, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 7434014979895955698, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -4651418776833355359, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 8012661602078461574, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 8566334617182946490, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -9187981787935052643, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -653909494108542918, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: -6937744151005950847, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  - {fileID: 6601811208622593710, guid: d015c09d1116a4c40ba6a6b79c740725, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Estatua Corrompida_12
+  - Estatua Corrompida_10
+  - Estatua Corrompida_11
+  - Estatua Corrompida_7
+  - Estatua Corrompida_6
+  - Estatua Corrompida_5
+  - Estatua Corrompida_4
+  - Estatua Corrompida_3
+  - Estatua Corrompida_2
+  - Estatua Corrompida_1
+  - Estatua Corrompida_0
+  - Estatua Corrompida_9
+  - Estatua Corrompida_8
+  - Animacion Estatua_9
+  - Animacion Estatua_6
+  - Animacion Estatua_7
+  - Animacion Estatua_4
+  - Animacion Estatua_5
+  - Animacion Estatua_2
+  - Animacion Estatua_3
+  - Animacion Estatua_0
+  - Animacion Estatua_1
+  - Animacion Estatua_19
+  - Animacion Estatua_18
+  - Animacion Estatua_15
+  - Animacion Estatua_14
+  - Animacion Estatua_17
+  - Animacion Estatua_16
+  - Animacion Estatua_11
+  - Animacion Estatua_10
+  - Animacion Estatua_13
+  - Animacion Estatua_12
+  - Animacion Estatua_24
+  - Animacion Estatua_25
+  - Animacion Estatua_26
+  - Animacion Estatua_27
+  - Animacion Estatua_20
+  - Animacion Estatua_21
+  - Animacion Estatua_22
+  - Animacion Estatua_23
+  - Animacion Estatua_8
+  m_RenderDataMap: {}
+  m_Tag: Atlas estatua
+  m_IsVariant: 0

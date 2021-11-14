@@ -1,0 +1,2988 @@
+fileFormatVersion: 2
+guid: cf1f2d06a8e513e4cba0b78b57a842be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2873984945505749916
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_0
+  - first:
+      213: -6700825045815409559
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_1
+  - first:
+      213: -1752212126216688727
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_2
+  - first:
+      213: -2933250565988274641
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_3
+  - first:
+      213: -2308103862178403919
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_4
+  - first:
+      213: 5453717538783673278
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_5
+  - first:
+      213: -6237138750100693025
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_6
+  - first:
+      213: 4352585841964314192
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_7
+  - first:
+      213: -2970378005895440897
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_8
+  - first:
+      213: 2126090618019866353
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_9
+  - first:
+      213: 7278872648085151627
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_10
+  - first:
+      213: 1749814404551665751
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_11
+  - first:
+      213: -3232587319797728256
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_12
+  - first:
+      213: 2055012595684043874
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_13
+  - first:
+      213: 4223715996640452097
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_14
+  - first:
+      213: -5510162251619608879
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_15
+  - first:
+      213: 8632765742164611042
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_16
+  - first:
+      213: -6090658710880929720
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_17
+  - first:
+      213: -2686733176982656712
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_18
+  - first:
+      213: -1205419161439324231
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_19
+  - first:
+      213: 951401841351527218
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_20
+  - first:
+      213: 2186664960686827515
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_21
+  - first:
+      213: -6238330572659585622
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_22
+  - first:
+      213: -4709747702578395700
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_23
+  - first:
+      213: 7428225865942485079
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_24
+  - first:
+      213: 486757321647216976
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_25
+  - first:
+      213: 2434165209395743238
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_26
+  - first:
+      213: 159365356034083152
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_27
+  - first:
+      213: 6202526046142753395
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_28
+  - first:
+      213: -1503310173454792432
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_29
+  - first:
+      213: -1206066760347542696
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_30
+  - first:
+      213: 6586794386118116748
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_31
+  - first:
+      213: 2383568928052423109
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_32
+  - first:
+      213: 7677340344563877067
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_33
+  - first:
+      213: 4011294561626949102
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_34
+  - first:
+      213: -1927968937269268154
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_35
+  - first:
+      213: -7547131722616342777
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_36
+  - first:
+      213: -3685610392576312374
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_37
+  - first:
+      213: 8728561933858471894
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_38
+  - first:
+      213: 2297993292052423139
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_39
+  - first:
+      213: 7106475869124429498
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_40
+  - first:
+      213: 873242442337626358
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_41
+  - first:
+      213: -3543751639504138398
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_42
+  - first:
+      213: 4789110280121580112
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_43
+  - first:
+      213: 5250026799030108894
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_44
+  - first:
+      213: -7360211711179918401
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_45
+  - first:
+      213: -2149854533457441856
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_46
+  - first:
+      213: -9051078594940835889
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_47
+  - first:
+      213: -3626104264607610726
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_48
+  - first:
+      213: -1400130643209197254
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_49
+  - first:
+      213: 5045253758751510108
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_50
+  - first:
+      213: 4296153119826896943
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_51
+  - first:
+      213: 6015216863059390699
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_52
+  - first:
+      213: 8622369290697371466
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_53
+  - first:
+      213: 4545280741268409224
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_54
+  - first:
+      213: 1158995372165009740
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_55
+  - first:
+      213: -2415946198463367919
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_56
+  - first:
+      213: 8128702387169454497
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_57
+  - first:
+      213: -4808007902378289165
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_58
+  - first:
+      213: 6758929681251709920
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_59
+  - first:
+      213: -6060600583386276376
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_60
+  - first:
+      213: -2295373444473271674
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_61
+  - first:
+      213: -8295975376153092125
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_62
+  - first:
+      213: -2008635664538440449
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_63
+  - first:
+      213: -3707470269882752896
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_64
+  - first:
+      213: 2715264786968450300
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_65
+  - first:
+      213: 3617814786648553127
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_66
+  - first:
+      213: 3838317916686609662
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_67
+  - first:
+      213: 3761489705502536305
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_68
+  - first:
+      213: 7207994241461887487
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_69
+  - first:
+      213: -76840198562362825
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_70
+  - first:
+      213: 2912380007616884257
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_71
+  - first:
+      213: -3735384913289246668
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_72
+  - first:
+      213: 5937051271236724032
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_73
+  - first:
+      213: -2431718997584310096
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_74
+  - first:
+      213: -5008447387085369925
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_75
+  - first:
+      213: -1595285477052970067
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_76
+  - first:
+      213: 3980631604775753202
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_77
+  - first:
+      213: 6744229426605607134
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_78
+  - first:
+      213: 2660202021248239603
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_79
+  - first:
+      213: 349099301248463641
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_80
+  - first:
+      213: -8119383178197871805
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_81
+  - first:
+      213: 7914333920693741577
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_82
+  - first:
+      213: -4908550006265388072
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_83
+  - first:
+      213: 6967623264332514397
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_84
+  - first:
+      213: -1306048753043052108
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_85
+  - first:
+      213: -4404432057265605581
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_86
+  - first:
+      213: 6168432562472756820
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_87
+  - first:
+      213: 7820098702534708658
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_88
+  - first:
+      213: -3331569721848970051
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_89
+  - first:
+      213: -6206092882758269236
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_90
+  - first:
+      213: -7979957858416735380
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_91
+  - first:
+      213: 5002516030424724467
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_92
+  - first:
+      213: 5989291448956142369
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_93
+  - first:
+      213: 7245462908137699008
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_94
+  - first:
+      213: 8543706725017309659
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_95
+  - first:
+      213: -4706349021294926866
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_96
+  - first:
+      213: -8157528155834054276
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_97
+  - first:
+      213: 124770549414241533
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_98
+  - first:
+      213: 5351862774494623973
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_99
+  - first:
+      213: -7154804527692630671
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_100
+  - first:
+      213: -5251877312932515288
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_101
+  - first:
+      213: -8126092574699763560
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_102
+  - first:
+      213: -1878345466004438143
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_103
+  - first:
+      213: -3146933259689643108
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_104
+  - first:
+      213: 4569116580125840895
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_105
+  - first:
+      213: -508847136043439588
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_106
+  - first:
+      213: -5374834439930744491
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_107
+  - first:
+      213: -7779529755465036327
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_108
+  - first:
+      213: 2870009235729412442
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_109
+  - first:
+      213: -1231738796326593022
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_110
+  - first:
+      213: -4032252894564231929
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_111
+  - first:
+      213: 7769701671467143268
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_112
+  - first:
+      213: 9079059846073059850
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_113
+  - first:
+      213: -1761800555173943796
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_114
+  - first:
+      213: -4059398019128302222
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_115
+  - first:
+      213: -7610698130625019954
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_116
+  - first:
+      213: 5757521988503701597
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_117
+  - first:
+      213: -8958625223513284051
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_118
+  - first:
+      213: -5768786363531288668
+    second: TileMap Suelos Pasto, Lvl 1, Animaciones_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643f494bed8d18d0800000000000000
+      internalID: -2873984945505749916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c1229f13e103a0800000000000000
+      internalID: -6700825045815409559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abe8b5da54eea7e0800000000000000
+      internalID: -1752212126216688727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e2e09b6200b47d0800000000000000
+      internalID: -2933250565988274641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9262624c7f7ffd0800000000000000
+      internalID: -2308103862178403919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb48cd43f7fab40800000000000000
+      internalID: 5453717538783673278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9c614a5b3179a0800000000000000
+      internalID: -6237138750100693025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6da423cd776c30800000000000000
+      internalID: 4352585841964314192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff518fdf0f817c6d0800000000000000
+      internalID: -2970378005895440897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f66d5f0724618d10800000000000000
+      internalID: 2126090618019866353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f1c6abb10c30560800000000000000
+      internalID: 7278872648085151627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e9261ee6984810800000000000000
+      internalID: 1749814404551665751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c360aa5fa8323d0800000000000000
+      internalID: -3232587319797728256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c63be511fd48c10800000000000000
+      internalID: 2055012595684043874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e93eb1257ad9a30800000000000000
+      internalID: 4223715996640452097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6527150a8f783b0800000000000000
+      internalID: -5510162251619608879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef02e244bebdc770800000000000000
+      internalID: 8632765742164611042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848bdc11c22a97ba0800000000000000
+      internalID: -6090658710880929720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83921b3196ec6bad0800000000000000
+      internalID: -2686733176982656712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b5f4c8ad754fe0800000000000000
+      internalID: -1205419161439324231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b09681fee043d00800000000000000
+      internalID: 951401841351527218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf728804238985e10800000000000000
+      internalID: 2186664960686827515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad8a21756ffc69a0800000000000000
+      internalID: -6238330572659585622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54a16fa6d93aeb0800000000000000
+      internalID: -4709747702578395700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ced2911c561760800000000000000
+      internalID: 7428225865942485079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0595a90843f41c600800000000000000
+      internalID: 486757321647216976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ac5a67c54e7c120800000000000000
+      internalID: 2434165209395743238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0594aeb62fd263200800000000000000
+      internalID: 159365356034083152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a627a939cc31650800000000000000
+      internalID: 6202526046142753395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190ff3bc5b232be0800000000000000
+      internalID: -1503310173454792432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b1416eba0334fe0800000000000000
+      internalID: -1206066760347542696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c858b19889ef86b50800000000000000
+      internalID: 6586794386118116748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c92936bf43241120800000000000000
+      internalID: 2383568928052423109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44189fd546b8a60800000000000000
+      internalID: 7677340344563877067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50b3ba62bfaa730800000000000000
+      internalID: 4011294561626949102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f314677a7e35e0800000000000000
+      internalID: -1927968937269268154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707fe584fa3334790800000000000000
+      internalID: -7547131722616342777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb300a00e41adcc0800000000000000
+      internalID: -3685610392576312374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df71ab35d4122970800000000000000
+      internalID: 8728561933858471894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e30d49bc14ef10800000000000000
+      internalID: 2297993292052423139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab60c08b6264f9260800000000000000
+      internalID: 7106475869124429498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8245aef516e1c00800000000000000
+      internalID: 873242442337626358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc523d8a012dec0800000000000000
+      internalID: -3543751639504138398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a71dc0d66567240800000000000000
+      internalID: 4789110280121580112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28871de87dbd840800000000000000
+      internalID: 5250026799030108894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3737bd1764bd990800000000000000
+      internalID: -7360211711179918401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb818631be2a22e0800000000000000
+      internalID: -2149854533457441856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7e86af8fb146280800000000000000
+      internalID: -9051078594940835889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c88d126d7dadc0800000000000000
+      internalID: -3626104264607610726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a396064299cb19ce0800000000000000
+      internalID: -1400130643209197254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e861c0097540640800000000000000
+      internalID: 5045253758751510108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e7ff10800f9b30800000000000000
+      internalID: 4296153119826896943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03891fdd75a7350800000000000000
+      internalID: 6015216863059390699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe046cf2fc8a770800000000000000
+      internalID: 8622369290697371466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4ab390c4141f30800000000000000
+      internalID: 4545280741268409224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41973e7624951010800000000000000
+      internalID: 1158995372165009740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b2249bb5d87ed0800000000000000
+      internalID: -2415946198463367919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ea10e0c3fec070800000000000000
+      internalID: 8128702387169454497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f798756946864db0800000000000000
+      internalID: -4808007902378289165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e33ad81cba8ccd50800000000000000
+      internalID: 6758929681251709920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed5cbd31eb64eba0800000000000000
+      internalID: -6060600583386276376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4e4f73023520e0800000000000000
+      internalID: -2295373444473271674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efd10f6956cedc80800000000000000
+      internalID: -8295975376153092125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc610c5184ef14e0800000000000000
+      internalID: -2008635664538440449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080215cbe6b6c8cc0800000000000000
+      internalID: -3707470269882752896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4916a00fe8ea520800000000000000
+      internalID: 2715264786968450300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b755616f053230800000000000000
+      internalID: 3617814786648553127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc6f171fc1744530800000000000000
+      internalID: 3838317916686609662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17274ca35fe733430800000000000000
+      internalID: 3761489705502536305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1a561b290f70460800000000000000
+      internalID: 7207994241461887487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a483c1f320feef0800000000000000
+      internalID: -76840198562362825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e24fcbf2ada6820800000000000000
+      internalID: 2912380007616884257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4388a08563f392cc0800000000000000
+      internalID: -3735384913289246668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a853eca4a46250800000000000000
+      internalID: 5937051271236724032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b01b6b947cc04ed0800000000000000
+      internalID: -2431718997584310096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd0b8823ab6e7ab0800000000000000
+      internalID: -5008447387085369925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab0be09f486cd9e0800000000000000
+      internalID: -1595285477052970067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f51a50ba5b0e3730800000000000000
+      internalID: 3980631604775753202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed840985ee0589d50800000000000000
+      internalID: 6744229426605607134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7074bd4afeae420800000000000000
+      internalID: 2660202021248239603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913704207ff38d400800000000000000
+      internalID: 349099301248463641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343db3c8408225f80800000000000000
+      internalID: -8119383178197871805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90866c8d4cc55dd60800000000000000
+      internalID: 7914333920693741577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36f42a6c351ebb0800000000000000
+      internalID: -4908550006265388072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54894f5178f1b060800000000000000
+      internalID: 6967623264332514397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e68f249bffdde0800000000000000
+      internalID: -1306048753043052108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334375d216050e2c0800000000000000
+      internalID: -4404432057265605581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456242bdbbcaa9550800000000000000
+      internalID: 6168432562472756820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd03195652968c60800000000000000
+      internalID: 7820098702534708658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ceb84df2e3c1d0800000000000000
+      internalID: -3331569721848970051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60d1887678fd9a0800000000000000
+      internalID: -6206092882758269236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bcb7e7b9e714190800000000000000
+      internalID: -7979957858416735380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3b9a043d18c6540800000000000000
+      internalID: 5002516030424724467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c05717dc3e1350800000000000000
+      internalID: 5989291448956142369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6f0d8702e0d8460800000000000000
+      internalID: 7245462908137699008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1d5c9fff7519670800000000000000
+      internalID: 8543706725017309659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee365bc1080bfaeb0800000000000000
+      internalID: -4706349021294926866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79834adc53aace80800000000000000
+      internalID: -8157528155834054276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4244457264bb100800000000000000
+      internalID: 124770549414241533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8736886d2a54a40800000000000000
+      internalID: 5351862774494623973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753689903705bc90800000000000000
+      internalID: -7154804527692630671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82279b6d8659d17b0800000000000000
+      internalID: -5251877312932515288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c4117bd15a3f80800000000000000
+      internalID: -8126092574699763560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183075520c6cee5e0800000000000000
+      internalID: -1878345466004438143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93365c9fd8d354d0800000000000000
+      internalID: -3146933259689643108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff59fb74253c86f30800000000000000
+      internalID: 4569116580125840895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae72bc93630f8f0800000000000000
+      internalID: -508847136043439588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5517461dd80c865b0800000000000000
+      internalID: -5374834439930744491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddcce5b7ee890490800000000000000
+      internalID: -7779529755465036327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fdb5a13254d720800000000000000
+      internalID: 2870009235729412442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed2ec371cf7eee0800000000000000
+      internalID: -1231738796326593022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70555fe2b5f8a08c0800000000000000
+      internalID: -4032252894564231929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460de8a218683db60800000000000000
+      internalID: 7769701671467143268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a82bbb3dc4ffd70800000000000000
+      internalID: 9079059846073059850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0665cfbab3dc87e0800000000000000
+      internalID: -1761800555173943796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275eeeb520f1aa7c0800000000000000
+      internalID: -4059398019128302222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfbd579f5e516690800000000000000
+      internalID: -7610698130625019954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58834f6eb3d6ef40800000000000000
+      internalID: 5757521988503701597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e2a4f2d19ca380800000000000000
+      internalID: -8958625223513284051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap Suelos Pasto, Lvl 1, Animaciones_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af9990ed5721ffa0800000000000000
+      internalID: -5768786363531288668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

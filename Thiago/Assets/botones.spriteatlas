@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: botones
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 58c7d9fbe69c39443b4b1e81a6cff9ea, type: 3}
+    - {fileID: 2800000, guid: 5c315e0c7986d944ba2475d6d1c034fb, type: 3}
+    - {fileID: 2800000, guid: 0a60f152ae15fa446aa7317637c9ff29, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 2590748406473860179, guid: 0a60f152ae15fa446aa7317637c9ff29, type: 3}
+  - {fileID: 171461028388792026, guid: 0a60f152ae15fa446aa7317637c9ff29, type: 3}
+  - {fileID: -3949781375635387467, guid: 58c7d9fbe69c39443b4b1e81a6cff9ea, type: 3}
+  - {fileID: 1347195003675182240, guid: 58c7d9fbe69c39443b4b1e81a6cff9ea, type: 3}
+  - {fileID: -5884352626996152457, guid: 58c7d9fbe69c39443b4b1e81a6cff9ea, type: 3}
+  - {fileID: -286139886903127347, guid: 58c7d9fbe69c39443b4b1e81a6cff9ea, type: 3}
+  - {fileID: 3828972383590787636, guid: 58c7d9fbe69c39443b4b1e81a6cff9ea, type: 3}
+  - {fileID: -5990106533704287262, guid: 58c7d9fbe69c39443b4b1e81a6cff9ea, type: 3}
+  - {fileID: 3443009669211228403, guid: 5c315e0c7986d944ba2475d6d1c034fb, type: 3}
+  - {fileID: -2763887132020933229, guid: 5c315e0c7986d944ba2475d6d1c034fb, type: 3}
+  - {fileID: 7987521051332152739, guid: 5c315e0c7986d944ba2475d6d1c034fb, type: 3}
+  - {fileID: -4105695663965013838, guid: 5c315e0c7986d944ba2475d6d1c034fb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tiles_Menu_Botones_Reiniciar_16x32_0
+  - Tiles_Menu_Botones_Reiniciar_16x32_1
+  - Tiles_Menu_Botones__1
+  - Tiles_Menu_Botones__0
+  - Tiles_Menu_Botones__3
+  - Tiles_Menu_Botones__2
+  - Tiles_Menu_Botones__5
+  - Tiles_Menu_Botones__4
+  - Tiles_Menu_Botones_PausaYReanudar_16x16_1
+  - Tiles_Menu_Botones_PausaYReanudar_16x16_0
+  - Tiles_Menu_Botones_PausaYReanudar_16x16_3
+  - Tiles_Menu_Botones_PausaYReanudar_16x16_2
+  m_RenderDataMap: {}
+  m_Tag: botones
+  m_IsVariant: 0
