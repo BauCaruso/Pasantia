@@ -31,7 +31,7 @@ public class EnemigoIA : MonoBehaviour
     private void Update()
     {
         anim.SetBool("Corriendo", enRango);
-
+         //crea un circulo no visible donde sigue o ataca al jugador
         enRango = Physics2D.OverlapCircle(transform.position, checkRadio, Player);
         enRangoAtaque = Physics2D.OverlapCircle(transform.position, attackRadio, Player);
 
@@ -44,32 +44,35 @@ public class EnemigoIA : MonoBehaviour
             anim.SetFloat("x", dir.x);
             anim.SetFloat("y", dir.y);
         }
+        else
+            return;
     }
     private void FixedUpdate()
-    {
+    { //comprueba si el movimiento no es 0 y pone la animacion correspondiente a la direccion
         if (mov != Vector2.zero)
         {
             anim.SetFloat("movX", dir.x);
             anim.SetFloat("movY", dir.y);
             anim.SetBool("caminando", true);
         }
-        else
+        else  //si es 0 , es porque no esta caminando y se tiene que ejecutar la animacion de parado
         {
             anim.SetBool("caminando", false);
         }
-
-        if (enRango && !enRangoAtaque)
+        // si el objetivo esta en rango y no en rango de ataque se acerca
+        if (enRango && !enRangoAtaque) 
         {
             MoveCharacter(mov);
         }
-        if (enRangoAtaque)
+        if (enRangoAtaque) //si esta en rango de ataque se para y deberia atacar
         {
             rb.velocity = Vector2.zero;
         }
     }
 
-    private void MoveCharacter(Vector2 dir)
+    private void MoveCharacter(Vector2 dir) 
     {
+        // mueve el rigigbody del enemigo a la posicion
         rb.MovePosition((Vector2)transform.position + (dir * speed * Time.deltaTime));
     }
 }

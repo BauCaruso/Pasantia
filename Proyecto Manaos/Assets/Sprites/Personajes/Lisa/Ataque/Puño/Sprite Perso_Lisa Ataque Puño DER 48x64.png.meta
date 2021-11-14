@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 0832ba1d9573d3e489785216f5bb528c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 182878260094324811
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_0"
+  - first:
+      213: 9132476680910762465
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_1"
+  - first:
+      213: 5019702943629771538
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_2"
+  - first:
+      213: -3378056482748241483
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_3"
+  - first:
+      213: 3242947282084548055
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_4"
+  - first:
+      213: 3135250729505472643
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_5"
+  - first:
+      213: 2094285244593907974
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_6"
+  - first:
+      213: 3055924310991189081
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_7"
+  - first:
+      213: -5031646214881006368
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_8"
+  - first:
+      213: -4754597871960363051
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_9"
+  - first:
+      213: -7795129159340685632
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_10"
+  - first:
+      213: -7406208243987860300
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_11"
+  - first:
+      213: 4167703549433791418
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_12"
+  - first:
+      213: -4432166054698205826
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_13"
+  - first:
+      213: -1293343696720152737
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_14"
+  - first:
+      213: 1097814129565513943
+    second: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_15"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_0"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4050120fc6b98200800000000000000
+      internalID: 182878260094324811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_1"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e17935c7231dbe70800000000000000
+      internalID: 9132476680910762465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_2"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21309015b3199a540800000000000000
+      internalID: 5019702943629771538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_3"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9e592d68bbe11d0800000000000000
+      internalID: -3378056482748241483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_4"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddc7f50f53410d20800000000000000
+      internalID: 3242947282084548055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_5"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 80
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38045fd5de5a28b20800000000000000
+      internalID: 3135250729505472643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_6"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ac5e7555601d10800000000000000
+      internalID: 2094285244593907974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_7"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9543c1948f2d86a20800000000000000
+      internalID: 3055924310991189081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_8"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec24962d600c2ab0800000000000000
+      internalID: -5031646214881006368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_9"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df69f72d66440eb0800000000000000
+      internalID: -4754597871960363051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_10"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c68537745322d390800000000000000
+      internalID: -7795129159340685632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_11"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b88487dcd73990800000000000000
+      internalID: -7406208243987860300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_12"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 16
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c229fb48a6d930800000000000000
+      internalID: 4167703549433791418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_13"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3b24b478cd72c0800000000000000
+      internalID: -4432166054698205826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_14"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573180a2ce1d0ee0800000000000000
+      internalID: -1293343696720152737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Perso_Lisa Ataque Pu\xF1o DER 48x64_15"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8382662283c3f00800000000000000
+      internalID: 1097814129565513943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

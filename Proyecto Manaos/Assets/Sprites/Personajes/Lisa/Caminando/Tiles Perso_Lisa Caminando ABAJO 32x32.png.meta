@@ -1,34 +1,7 @@
 fileFormatVersion: 2
 guid: cde1b6ca6f36a144b865abfe747d0aa3
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 4078547257804126071
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_0
-  - first:
-      213: -3855013765148819366
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_1
-  - first:
-      213: 1311196143600270247
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_2
-  - first:
-      213: 3658193056142597232
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_3
-  - first:
-      213: -4213084145513022408
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_4
-  - first:
-      213: -2513806743864536536
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_5
-  - first:
-      213: 4307990782795012313
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_6
-  - first:
-      213: 5717830174437976963
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_7
-  - first:
-      213: 7448746414785718379
-    second: Tiles Perso_Lisa Caminando ABAJO 32x32_8
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -59,7 +32,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -68,12 +41,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -95,7 +68,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -107,7 +80,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -116,196 +89,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 777fe053f19e99830800000000000000
-      internalID: 4078547257804126071
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a504014c76d308ac0800000000000000
-      internalID: -3855013765148819366
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7abf72212fd423210800000000000000
-      internalID: 1311196143600270247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07c1e2fd33384c230800000000000000
-      internalID: 3658193056142597232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83cbdd1aa4e1885c0800000000000000
-      internalID: -4213084145513022408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_5
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82219fdc51a2d1dd0800000000000000
-      internalID: -2513806743864536536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_6
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 30
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d85720dace09cb30800000000000000
-      internalID: 4307990782795012313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_7
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 30
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38ba261df30d95f40800000000000000
-      internalID: 5717830174437976963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles Perso_Lisa Caminando ABAJO 32x32_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b68644b26634f5760800000000000000
-      internalID: 7448746414785718379
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []

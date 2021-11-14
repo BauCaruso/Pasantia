@@ -11,14 +11,14 @@ public class PlayerMov : MonoBehaviour
     CircleCollider2D attackCollider;
     
     bool dashTrue = false;
-    Vector3 movimiento;
+    public  Vector3 movimiento;
     Vector2 mousePos;
     Animator anim;
     private void Start()
     {
         anim = GetComponent<Animator>();
-        attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
-        attackCollider.enabled = false;
+        //attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
+        //attackCollider.enabled = false;
     }
     void Update()// en el update ponemos el input para tomar las teclas y en el fixed ejecutariamos el movimiento , asi evitamos problemas
     {
@@ -32,21 +32,22 @@ public class PlayerMov : MonoBehaviour
             dashTrue = true;
         }
 
-        AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
+        /*AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
         bool atacando = stateInfo.IsName("jugador-atacando");
 
-        if(Input.GetMouseButtonDown(0) && !atacando) 
+        if(Input.GetMouseButtonDown(0) && !atacando) //si el se clickea y no esta atacando se ejecuta la animacion atacando
         {
             anim.SetTrigger("atacando");
             
         }
-        if (atacando)
+        if (atacando) //esto es para que el collider de ataque aparezca solo a mitad de la animacion y despues se desactive
         {
             float playbackTime = stateInfo.normalizedTime;
             if (playbackTime > 0.33 && playbackTime < 0.66) attackCollider.enabled = true;
             else attackCollider.enabled = false;
 
         }
+        */
 
     }
 
@@ -64,19 +65,21 @@ public class PlayerMov : MonoBehaviour
 
         //comprueba si esta en movimiento para ver que animacion poner si caminando o parado
         if (movimiento != Vector3.zero) 
-        {attackCollider.offset = new Vector2(movimiento.x / 2, movimiento.y / 2);
+        {
+            
             anim.SetFloat("movX", movimiento.x);
             anim.SetFloat("movY", movimiento.y);
 
             anim.SetBool("caminando", true);
+            
         }
         else
         {
             anim.SetBool("caminando", false);
         }
     }
-    void MovInput()
-    {
+    public void MovInput()
+    {   // basicamente el movimiento
         float x = Input.GetAxisRaw("Horizontal");
         float y = Input.GetAxisRaw("Vertical");
         movimiento = new Vector3(x, y).normalized;
